@@ -5,4 +5,4 @@
 4. ```npm install```
 5. ```npx webpack```
 6. ```node server/app.js```
-7. Go to (http://localhost:3000)[http://localhost:3000/] to see the site.
+7. Go to [http://localhost:3000](http://localhost:3000/) to see the site.
