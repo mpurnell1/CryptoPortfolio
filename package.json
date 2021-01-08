@@ -1,0 +1,40 @@
+{
+  "name": "cryptoportfolio",
+  "version": "1.0.0",
+  "description": "CryptoPortfolio web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpurnell1/CryptoPortfolio.git"
+  },
+  "keywords": [
+    "crypto",
+    "portfolio",
+    "webapp",
+    "react",
+    "express",
+    "nodejs"
+  ],
+  "author": "Matt Purnell and John-Hugh Hedrick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpurnell1/CryptoPortfolio/issues"
+  },
+  "homepage": "https://github.com/mpurnell1/CryptoPortfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-react": "^7.12.10",
+    "babel-loader": "^8.2.2",
+    "html-webpack-plugin": "^4.5.1",
+    "webpack": "^5.11.1",
+    "webpack-cli": "^4.3.1"
+  }
+}
